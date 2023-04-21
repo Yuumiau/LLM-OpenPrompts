@@ -1,6 +1,8 @@
 ![Contributions: Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
-**LLM-OpenPrompts** is a public repository containing a wide variety of prompts for Large Language Models (LLMs) like OpenAI's GPT series. The aim of this repository is to provide a comprehensive collection of prompts that facilitate various task automations using LLMs, ranging from simple Q&A to complex problem-solving.
+**LLM-OpenPrompts** is a public repository containing a wide variety of prompts for Large Language Models (LLMs) like OpenAI's GPT series and other Generative AI (like Midjourney). The aim of this repository is to provide a comprehensive collection of prompts that facilitate various task automations using LLMs, ranging from simple Q&A to complex problem-solving.
+
+This repository is being built upon. Many things are subject to change.
 
 ## Table of Contents
 
